@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's glory begun in I. Restoring our religion. II. Rectifying our coin. To be compleat in III. Reforming our manners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38391</idno>
+            <idno type="STC">Wing E2967</idno>
+            <idno type="STC">ESTC R215027</idno>
+            <idno type="EEBO-CITATION">99827025</idno>
+            <idno type="PROQUEST">99827025</idno>
+            <idno type="VID">31437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's glory begun in I. Restoring our religion. II. Rectifying our coin. To be compleat in III. Reforming our manners.</title>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Rich. Baldwin, at the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31437:1"/>
+            <pb facs="tcp:31437:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLAND'S GLORY,</hi> Begun in I. Reſtoring our Religion. <hi>II.</hi> Rectifying our Coin. To be Compleat in <hi>III.</hi> Reforming our Manners.</p>
+            <q>
+               <bibl>
+                  <hi>Tit. II. 14.</hi>
+               </bibl>
+               <p>Who gave himſelf for us, that he might <hi>Redeem us</hi> from all Iniquity, <hi>and Purge us</hi> to be a <hi>Peculiar People</hi> Zea<g ref="char:EOLhyphen"/>lous of Good Works.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Rich, Baldwin,</hi> at the <hi>Oxford-Arms</hi> in <hi>War<g ref="char:EOLhyphen"/>wick-Lane.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31437:2" rendition="simple:additions"/>
+            <pb facs="tcp:31437:2"/>
+            <head>
+               <hi>TO THE</hi> Two Honourable Houſes.</head>
+            <p>WHEN in good Repair, as at this pre<g ref="char:EOLhyphen"/>ſent, you are the Object <hi>Britannia</hi>'s Eyes are moſt intently fixt upon, beholding with Joy and Admiration.</p>
+            <p>With Joy, becauſe ſhe can make her Addreſ<g ref="char:EOLhyphen"/>ſes with ſo much eaſe and freedom. With Ad<g ref="char:EOLhyphen"/>miration, becauſe you can perform your Un<g ref="char:EOLhyphen"/>dertakings.</p>
+            <p>The Third Houſe compriſing both, as the Heav'ns the Terraqueous Globe, is the Roy<g ref="char:EOLhyphen"/>al Pallace of the <hi>Britiſh Monarch;</hi> whoſe Ma<g ref="char:EOLhyphen"/>ſter, conveying Life and Luſtre from the King of Kings, compleats our <hi>England's Glory:</hi> And un<g ref="char:EOLhyphen"/>to this, your Acceſs is as free as ours is unto you.</p>
+            <p>
+               <hi>Britannia</hi> thus lives and moves; the Al<g ref="char:EOLhyphen"/>mighty God having given her <hi>ſo excellent a be<g ref="char:EOLhyphen"/>ing.</hi> And here's a moſt happy Union of all
+<pb facs="tcp:31437:3"/>the Three, compoſing that Noble Body, the King and his Subjects, <hi>Barons, and Commons.</hi>
+            </p>
+            <p>The good Conſtitution of health in this Body, has been very illuſtrious now of late unto this Age, as much or more than to our Anceſtors; tho they have ſeen ſeveral happy Reigns: Therefore are the Eyes of all <hi>Europe</hi> upon our <hi>Britannia,</hi> as a Body of the fineſt Fa<g ref="char:EOLhyphen"/>brick, and moſt Curious Compoſure: Even Majeſty it ſelf making long Voyages to ſee a <hi>Solomon.</hi>
+            </p>
+            <p>As the Queen of the South came from far unto <hi>Jeruſalem,</hi> ſo the Emperor of the North is come to <hi>London.</hi>
+            </p>
+            <p>The Queen of <hi>Sheba</hi> came to ſee that Prince who built the <hi>firſt Temple.</hi> The <hi>ſecond Tabernacle</hi> then, which now is building, de<g ref="char:EOLhyphen"/>ſerves certainly the moſt Royal hand, and the moſt Wiſe hearted amongſt the Princes of the Earth, being ſo much more Excellent than the firſt; as unſeen are more than ſeen things; Spiritual more than Temporal Glory; an houſe not made with hands, more than the ſtatelieſt Pile of Building upon Earth; the Gates of <hi>Sion,</hi> more than all the dwellings of <hi>Jacob.</hi>
+            </p>
+            <pb facs="tcp:31437:3"/>
+            <p>It is not Temples made with hands which delight the Holy one of <hi>Iſrael;</hi> But thoſe of Mens Spirits and Bodys, cleanſed by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, and prepar'd: Typified by our Lords ſweeping out the Defilements of <hi>Jeru<g ref="char:EOLhyphen"/>ſalems</hi> Temple: Therefore the <hi>CH<g ref="char:V">Ʋ</g>RCH OF ENGLAND,</hi> before ſhe ſaith, <hi>Take not thy Holy Spirit from us, Begs that God will make clean our Hearts within us;</hi> Plainly evincing that an unclean heart, does no more then bable in that Petition for the Spirits reſidence.</p>
+            <p>Now if theſe three houſes, wherein dwells the Government, do begin to make ſuch Preparation; The Countrey will alſo cer<g ref="char:EOLhyphen"/>tainly be made ſenſible of their Duty: And then we ſhall hear that bleſſed Proclamation, <hi>Prepare to meet thy God O Iſrael!</hi>
+            </p>
+            <p>The Eſſentials of a Leet ſeem to be ſuch, as by the <hi>Romans</hi> were called, <hi>Faſti,</hi> where the <hi>Praetor</hi> might keep a Court; which was not done without theſe three words ſpoken, <hi>Do, Dico, Addico,</hi> Do I give way to Actions? <hi>Di<g ref="char:EOLhyphen"/>co,</hi> I ſpeak the Law. <hi>Addico,</hi> I Judge matters and Men.</p>
+            <p>Now in this method of Governing the Poor, the <hi>Power</hi> of a Governing Leet
+<pb facs="tcp:31437:4"/>is <hi>Reſtor'd</hi> to the Decenners or Freeholders, <hi>&amp;c. Viz. Dico,</hi> upon <hi>VIEW</hi> I ſpeak, directing and adviſing to Induſtry. <hi>Addico,</hi> I appoint ſuch a daily Task to he performed. <hi>Do,</hi> give In<g ref="char:EOLhyphen"/>formation to the Magiſtrate, of the Poors Carriage and Behaviour.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31437:4"/>
+            <head>England's Glory, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>ENglands</hi> Peace calls for <hi>Englands</hi> Gratitude; If that be not forthcoming, her Peace can't be laſt<g ref="char:EOLhyphen"/>ing. If we go to Individuals, too many are a<g ref="char:EOLhyphen"/>gainſt the Nations Peace; And therein againſt their own, and the Peace of their poſterity. But when People willfully Impair their own ſight, it's but juſt with God to ſtrike them with a Total Blindneſs: If we can't perſwade, yet we may Pray for our Enemies, as our Maſter did, <hi>Lord forgive them, for they know not what they do.</hi>
+            </p>
+            <p>It is but ſad in ſome places, if we go to Individuals; therefore we rejoyce in our Repreſentatives, the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, in our Nobility, the up<g ref="char:EOLhyphen"/>per Houſe of Parliament, in our King, the Happy head of that Fair and Beautiful Body: To the <hi>Bon Repos,</hi> whereof it's every Subjects Duty and Intereſt to con<g ref="char:EOLhyphen"/>tribute; For hereunto the <hi>Almighty</hi> hath brought us, by the Councel of a <hi>Wiſe and Faithful</hi> Parliament, and the Conduct of a juſt and Valliant King: Not only ſtiled ſo, but upon Tryal found ſo: And is not this indeed, <hi>He that never Broke his Word?</hi>
+            </p>
+            <pb n="2" facs="tcp:31437:5"/>
+            <p>I can't be of their Opinion therefore, who would have us like none of our Friends and Neighbours; But that whilſt they are keeping ſtrong Guards, we muſt Disband ours. Would not this in us look more Vain, after the Worlds experience of thouſands or years, then if it had been done by our Fore-Fathers, who lived when Moats and Caſtles were firſt invented? This truely I do believe, that as we are, the very Conduct of Common prudence is ſufficient to ſecure us, againſt any hand, but that which is above us: And that is the only Hand to be fear'd, now we have Peace with us, and time before us, ſhould we neglect Reformation of that Evil habit of Idleneſs in the Poor, which like Tares has been ſown, and coming up whilſt <hi>England</hi> has been ſleeping; And that too in the day time, after the Debauches of her Revelling Nights.</p>
+            <p>Negligent Maſters, do but rarely meet with Indu<g ref="char:EOLhyphen"/>ſtrious Servants. But now that God hath bleſt us with a Prince that delights in the Nobleſt things, <hi>TO DO GOOD TO MANKIND;</hi> (And not like thoſe narrow Souls, who tho they leave the reſt of the World in dark<g ref="char:EOLhyphen"/>neſs, would be drawing all the very Sun-Beams to their ſide of the Globe, without Pity or Commiſeration unto others) every true <hi>Engliſhman</hi> ſurely will conſider, how the very Heavens now ſmile upon <hi>Great Britain and Ireland,</hi> &amp;c. Ay and more then any other Parts of the World (tho ſome others have a great ſhare) as preſaging that theſe Beloved <hi>Iſles,</hi> who have been Honour'd and own'd more then other places, both in the firſt ſpreading of Chriſti<g ref="char:EOLhyphen"/>anity, and in every Reformation ſince, ſhall now again lead the Van, <hi>When the greateſt Reformation of all is approaching.</hi> And this brings to mind that Prophetick
+<pb n="3" facs="tcp:31437:5"/>Poem, upon occaſion of the Death of the Earl of <hi>E</hi>—<hi>x</hi> and which hath its Prediction as followeth,</p>
+            <q>
+               <l>
+                  <hi>His l</hi>—<hi>ed Acts thy Freedoms Birth ſhall Cauſe,</hi>
+               </l>
+               <l>
+                  <hi>Secure Religion produce wholeſom Laws,</hi>
+               </l>
+               <l>
+                  <hi>No more the Poor, the Rich one ſhall devour,</hi>
+               </l>
+               <l>
+                  <hi>No more ſhall right yeild to oppreſſive Power.</hi>
+               </l>
+               <l>
+                  <hi>No more ſhall Rapine make the Countrey Groan.</hi>
+               </l>
+               <l>
+                  <hi>Nor Civil Wars ſhall Reign within the Town.</hi>
+               </l>
+               <l>
+                  <hi>The Iron Scepter, and the Tyrants Hand,</hi>
+               </l>
+               <l>
+                  <hi>Shall ceaſe henceforth to bruiſe thy happy Land.</hi>
+               </l>
+               <l>Rome's Hocus pocus <hi>Miniſters no more,</hi>
+               </l>
+               <l>
+                  <hi>Shall cauſe Mankind their Jugling Prieſts adore.</hi>
+               </l>
+               <l>
+                  <hi>Thy Learned Clergy ſhall confound them all,</hi>
+               </l>
+               <l>
+                  <hi>And they like</hi> Ely<hi>'s Sons unpitied fall.</hi>
+               </l>
+               <l>
+                  <hi>Dark miſts of Errors then muſt fly away,</hi>
+               </l>
+               <l>
+                  <hi>And Hells Deluſions ſhrink from the bright Day.</hi>
+               </l>
+               <l>
+                  <hi>Truths ſacred Light, in full abundance ſhall</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon thy</hi> Teachers and thy People <hi>fall.</hi>
+               </l>
+               <l>
+                  <hi>So when th' Eternal Son was Born to die</hi>
+               </l>
+               <l>
+                  <hi>For all the World;</hi> the leſſer Gods did <hi>flye.</hi>
+               </l>
+               <l>
+                  <hi>His Bright appearance ſtruck their</hi> Prophets <hi>down,</hi>
+               </l>
+               <l>
+                  <hi>And Death-like ſilence did their Gods Intomb.</hi>
+               </l>
+               <l>
+                  <hi>The Tuneful</hi> ſpheres <hi>with</hi> Hallelujahs <hi>Rung,</hi>
+               </l>
+               <l>
+                  <hi>Heavens mighty</hi> Hoſt <hi>with</hi> Man <hi>one</hi> Chorus <hi>Sung.</hi>
+               </l>
+               <l>
+                  <hi>Ne'r fading</hi> Glory unto God <hi>above,</hi>
+               </l>
+               <l>Peace upon Earth, <hi>to Men Eternal Love.</hi>
+               </l>
+               <l>
+                  <hi>Thus the Creation ſhouted with one Voice,</hi>
+               </l>
+               <l>
+                  <hi>Thus Heaven and Earth did at his Birth Rejoyce.</hi>
+               </l>
+               <l>
+                  <hi>And thus ſhall all Repeat this Song again,</hi>
+               </l>
+               <l>When upon Earth he ſhall begin to Reign.</l>
+               <l>
+                  <hi>This</hi> Belov'd Iſle <hi>ſhall be the choſen place,</hi>
+               </l>
+               <l>
+                  <hi>Here ſhall the King of Kings begin his Race.</hi>
+               </l>
+               <pb n="4" facs="tcp:31437:6"/>
+               <l>Judea <hi>was his</hi> Cradle <hi>and his</hi> Tomb,</l>
+               <l>Britain <hi>ſhall be his</hi> Throne <hi>in time to come.</hi>
+               </l>
+            </q>
+            <p>Now if Heaven ſmile upon our Nation, we are no better then Putrify'd Corrupt Members, if we promote not her Happineſs to our Power: Nay, thoſe that have but bare <hi>Mite,</hi> ought here to caſt in with me into the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Treaſury; And thoſe that have <hi>Talents</hi> give ac<g ref="char:EOLhyphen"/>cordingly; as our great Men (God be thanked) now in<g ref="char:EOLhyphen"/>cline to do very freely.</p>
+            <p>The very Stars that in their Courſes fought againſt <hi>Siſera,</hi> are now in a bleſſed Confederacy; have bleſſed the Confederate Princes, to prepare all things for the <hi>King of Peace</hi> and <hi>Glory;</hi> Rejoycing at the approaching of that Kingdom, we and our Fore-Fathers <hi>have pray'd, might come.</hi> The next mercy, to the Reſtauration of our Religion, was the Rectifying of our <hi>Coin;</hi> The next in Courſe, is the Reformation of our manners. And here the cryes of the Poor, being the loudeſt, ſeem to call for the firſt Relief: And ſo our Government may think ſit to begin with the Idle Poor, becauſe in Gene<g ref="char:EOLhyphen"/>ral ſpeaking they are.</p>
+            <list>
+               <item>1. The moſt undutiful to God.</item>
+               <item>2. The moſt burdenſome to the Rich.</item>
+               <item>3. The moſt Cruel to their needy Brethren.</item>
+            </list>
+            <p n="1">1. The moſt undutiful to God. Now this is a main thing; We as Chriſtians pretend to take care of our Children by bringing them to Church, <hi>&amp;c</hi> Why do we not ſo with the Poor? If <hi>England</hi> muſt be as an <hi>Iſrael</hi> to God, we know God hath appointed that the <hi>Poor ſhall never ceaſe.</hi> They ſhall be always with us; for the
+<pb n="5" facs="tcp:31437:6"/>conſtant exerciſe of Love and Charity: That we may not think we were Born for our ſelves, or thoſe of our Houſhold only; This would be the ready way to forget God utterly the Poor being as ſure our Lords Repre<g ref="char:EOLhyphen"/>ſentatives in this preſent World, as the Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgeſſes are ours, in this preſent Parliament: And as what theſe do is our Act, ſo what the Poor has given them is our Lords Receipt: Nay, he is pleas'd to call it a Loan unto himſelf.</p>
+            <p>If the Lord will have the Poor in his <hi>Iſrael</hi> receive Food for their Bodys, <hi>a fortiori</hi> then for their Souls, be<g ref="char:EOLhyphen"/>ing the more Noble part. The Poor are thus to be with us, and thus to receive from us, to keep alive (warm at leaſt) our Love unto God, ſince we are fallen ſuch a di<g ref="char:EOLunhyphen"/>ſtance from him. And here's the force of the Argu<g ref="char:EOLhyphen"/>ment, if we love not our Brother whom we have ſeen How ſhall we Love God whom we have not ſeen? The Poor then are to be as our Children, with no difference, only the <hi>Quantum</hi> we are to give unto each. But why bring we not the Poor to <hi>Church?</hi> They can't be allow<g ref="char:EOLhyphen"/>ed the excuſes Children ſometimes make, that they have not Cloaths good enough to go in. The nearer the Poor live to us, the more we ought to be concern'd for them: And indeed much of our Poor are not only our Brethren, Relative as Chriſtians and Natives, but really as our Fleſh and Blood alſo; And certainly thoſe of us, whoſe Families have been with, or before King <hi>Willi<g ref="char:EOLhyphen"/>am</hi> the Firſt, muſt have of Poor Relations, in a near or more Remote Degree of Conſanguity: And I think the Ancient Gentry, are as free in owning them as the New. But if our Children were no better lookt after, then our more remote Relations that are Poor, our Children might ſoon become as Rude; and Wild as our Poor Relations.</p>
+            <pb n="6" facs="tcp:31437:7"/>
+            <p>Let us then conſider, if for want of Diſcipline we be not guilty before God, almoſt as far as Old <hi>Ely:</hi> and let us but put theſe Queries to our ſelves, if wee are not Guilty of.</p>
+            <list>
+               <item>1. Their breaking of the Sabbath.</item>
+               <item>2. Their Sloath and Idleneſs.</item>
+               <item>3. Shall we do well in putting thoſe to Death, our <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lves have Conniv'd at in the Looſeneſs of their Life.</item>
+            </list>
+            <p n="2">2. The Idle Poor are moſt burdenſome to the Rich, ſpecially the meaner ſort, that Pay the Poors Tax with <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſweat of their Brows, and hard Labour. And here <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Poet's in the right. Who's in the Fault? It's eaſy <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o know which:</p>
+            <q>
+               <l>
+                  <hi>The Idle Poor do Rob</hi>
+               </l>
+               <l>
+                  <hi>The Labouring Rich.</hi>
+               </l>
+            </q>
+            <p>And indeed Labouring Families can't provide ſo com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortably for their own, as otherwiſe they might; a great diſcouragement to Dilligence and Induſtry: Beſides how eaſily would Taxes be paid for Defence, or otherwiſe in a juſt War, ſhould half or more of the Poors Tax be abated, <hi>By any happy thought amongſt us.</hi> And is not the ſharping and diſingenuous dealing of many Men in their Trade and Callings, occaſioned by the Burden of the Poors Idleneſs, and that in reſpect of. Firſt, the want of thoſe hands that lye Idle, which otherwiſe would bring Commodities more plentiful, work being done at eaſier Rates. Secondly, in reſpect of the great burden of the Tax, to theſe that are needers and might be helpers.</p>
+            <p>Laſtly, The Idle Poor are Cruel to their Impotent Brethren, the Sick, Lame, Aged, <hi>&amp;c.</hi> Who are not reliev<g ref="char:EOLhyphen"/>ed like <hi>Chriſtian Poor,</hi> the Idle ſnatching their Meat out of their Mouths, by their diſſembling Clamours and Idle outcrys. And all this hardſhip too, whilſt we pay
+<pb n="7" facs="tcp:31437:7"/>near a Tenth to the Poor, beſides that to the Parſon. How are the Impotent, honeſt Poor in <hi>London,</hi> every day Robb'd by, Mumpers, and Canting Beggars? which might and ought to be better diſcover'd and underſtood. Now let the remainder of this <hi>Poor Diſcourſe,</hi> for order ſake, be wrapt up within theſe four following Conſide<g ref="char:EOLhyphen"/>rations.</p>
+            <list>
+               <item>1. The cauſe of Decay in our <hi>Engliſh</hi> Induſtry.</item>
+               <item>2. The preſent miſchiefs by Idle Poor.</item>
+               <item>3 The remedy Propos'd.</item>
+               <item>4 The method of proceeding therein.</item>
+            </list>
+            <p>For the firſt Conſideration, the cauſe of Decay in <hi>Engliſh</hi> Induſtry ſeems to have been,</p>
+            <p n="1">1. A Connivance at the Poors Tipling, Drunken<g ref="char:EOLhyphen"/>neſs, and Idling.</p>
+            <p n="2">2. The laying aſide of that which prevented all the Evil, the Laudable <hi>Engliſh</hi> Law, of View of <hi>Franc<g ref="char:EOLhyphen"/>pledge.</hi>
+            </p>
+            <p>For the firſt, It is plain, the Poor took Encouragement to do ill, from the very Charity of the Government (as bad Children from their Parents tenderneſs) I mean the Stat. of 43 <hi>Eliz.</hi> touching the Poor: For the Poor finding they had as good a Freehold in the Lands of <hi>England</hi> as the Free-holders themſelves, whoſe Lands muſt pay to the Poor, tho themſelves wanted, the Free holders had but an old Song for their Money.</p>
+            <q>
+               <l>
+                  <hi>Hang Sorrow, caſt away Care,</hi>
+               </l>
+               <l>
+                  <hi>The Pariſh is bound to find us.</hi>
+               </l>
+            </q>
+            <p>Now Inferior Magiſtrates that will Connive at ſuch Catterpillers we may call them Good Natur'd Men if we will but how ſhall we call them Good <hi>Patriots</hi> in their Countrey?</p>
+            <pb n="8" facs="tcp:31437:8"/>
+            <p>In a late Reign, ſo blind were ſome that they <hi>very fair<g ref="char:EOLhyphen"/>ly</hi> led the way, the blind led the blind, and yet thought the World look't upon their Actings as pleaſant Commedys, that indeed were confounded Farces. A frolick went once to ſuch a height, that a Knot of <hi>J</hi>— coming hot out of the <hi>Tavern,</hi> one hand muſt go into the <hi>R</hi> — Poſt, and the other drink the K—health: And at the very Market Croſs, too, of a Burrow Town: So that ſome might think it a Peice of Petit <hi>Tr</hi>—to exclaim againſt it, yet ſo did not I then, no more than now. The Second cauſe, is the laying aſide the very Eſſence and proper being of a Leet. It is the declared Opinion of many of our Sages of the Law, that this laying aſide, was an unſpeakable Damage to the <hi>Engliſh</hi> Government: Whilſt there was a Capital Pledge to Anſwer for all Immoralities or every Perſon, and Family, within the Decenary, or Diſtrict of Ten Families to view and obſerve, there was a very exact Eye upon every Family and Perſon throughout this Realm (for every Perſon is within ſome Leet.) And the Capital Pledge and Decenary, upon offence com<g ref="char:EOLhyphen"/>mitted were fined, and ſuffered by their Purſe to the Kings Majeſty: and very good Reaſon; If they would ſuffer his Subjects to Debauch, and ſo looſe him <hi>The beſt of his Treaſure,</hi> why ſhould not they Anſwer out of theirs?</p>
+            <p>This brings to mind what I have heard was done in a <hi>Leet</hi> belonging to a <hi>Noble Man</hi> of this Kingdom, not many Years ſince, The place was ſo full of Poor, and moſt of them Idle, that their Tax in the Pariſh a<g ref="char:EOLhyphen"/>mounted in ordinary to about 900, ſometimes near 1000 <hi>l. per Annum, A By Law</hi> was made to put in Exe<g ref="char:EOLhyphen"/>cution, the Laws againſt Tipling, ſo far as the Poor
+<pb n="9" facs="tcp:31437:8"/>ſhould be concerned, and the Conſtables to ſearch the Houſes for that purpoſe. Likewiſe the <hi>Grand Jury</hi> Complaining, that if their Pariſh Poor would work, there was enough within the Pariſh, (Being a place of Trade) to find them Imployment, and ſo much, that Cloathiers were forc't to Travel many Miles out of the Pariſh for to get their work done, when their own Poor might do it. There was a <hi>By Law</hi> made, that every Houſholder ſhould go upon the view of the Poor, and that weekly by turns; That ſo the Over<g ref="char:EOLhyphen"/>ſeers of the Poor might be informed of the Poors Car<g ref="char:EOLhyphen"/>riage in order to Relief for the wanting, and puniſh<g ref="char:EOLhyphen"/>ment for the Idling, as far as the Juſtices of Peace had Power</p>
+            <p>This was undertaken and for ſome time the Poor were daily viſited, and their work obſerved; And this Ac<g ref="char:EOLhyphen"/>compt thereupon given by the Viewers, that if ſuch courſe was followed, two parts in three of the Poors Tax, be<g ref="char:EOLhyphen"/>ing then about 900 <hi>l.</hi> would in a little time be brought off, <hi>viz.</hi> From 9 to 300 <hi>l. per Annum,</hi> for they found the working Poor more diligent, and pleaſed that theſe methods were finding out the fault, and that they were working. Again the Idle were ſo quickned, that upon ſight of the Viewers, and they would make to their work in all haſte; and the Viewers thought by giving a Penny or two in a Houſe, that was diligent, would be great Encouragement.</p>
+            <p>The ſecond conſideration is the preſent miſchiefs by the Idle Poor, and ſuch Families as are ſo.</p>
+            <p n="1">1. If they are not a Brood, and Neſt of Idleneſs and Impudence, and likely with ſorrow, to be left ſo to our Poſterities, if not in this Good Reign prevented?</p>
+            <pb n="10" facs="tcp:31437:9"/>
+            <p n="2">2. If they feed not upon the Labours of others? Drones in the Bee-hive of buſineſs?</p>
+            <p n="3">3. If ſo bad, it's not almoſt an <hi>Imprudence</hi> to put their <hi>tainted</hi> children, for Apprentices, upon Sober Fami<g ref="char:EOLhyphen"/>lies?</p>
+            <p n="4">4. If they are not the Nurſeries of moſt that go to <hi>Bridewel</hi> and the <hi>Gallows? What abundance of Lives might be ſaved by good Education!</hi>
+            </p>
+            <p n="5">5. If Swearing, Drunkenneſs, and Sabbath breaking, lies not much at their Doors?</p>
+            <p n="6">6. If their begging in the Streets, Lodging in Barnes, and want of wholeſom Food, brings not on them abun<g ref="char:EOLhyphen"/>dance of Diſeaſes and Lameneſs, with great charge to the Countrey?</p>
+            <p n="7">7. If inſtead of being, poor in <hi>Spirit,</hi> moſt agreeable to meaneſs, they are, not inſufferably Proud, and Stub<g ref="char:EOLhyphen"/>born? So that Proviſions made, for them at the <hi>Work<g ref="char:EOLhyphen"/>houſe,</hi> they'll tell you is below them; they'll not be uſed like, Slaves there? They have heard of <hi>Engliſh</hi> Li<g ref="char:EOLhyphen"/>berties, and would have them extended to their Sloath and Idleneſs. Do they not already ſo ſhame with their Badges, as to cover them from ſight if any ways poſſible?</p>
+            <p n="8">8 If the Pride of the poor, together with the many miſcarriages of thoſe intruſted with a Stock, and the difficulty to find Good Men for the purpoſe, have not hindered the project of a Work-houſe.</p>
+            <p n="9">9. If Houſes of Correction do not fail mightily in their end for being commonly Tipling Houſes by a good ſhower of Ale may <hi>quench their Zeal.</hi>
+            </p>
+            <p n="10">10. The poor being ſo increaſed ſince the time of Queen <hi>Eliz.</hi> If it would not be an unequal burden to the Church Wardens and Overſeers, to make their daily viſits?</p>
+            <pb n="11" facs="tcp:31437:9"/>
+            <p>The third conſideration is the Remedy: And thus propoſed, <hi>viz.</hi> By a common concern, and General, as that of the <hi>Wincheſter Watch,</hi> only this to be weekly, in turns, through the whole Year. In ſome places it may not come three or four times in a Year, to a Family where many Families are, and where but few, it's little trouble: And a careful Servant may do it for the Maſter, which Method ſeems to be,</p>
+            <list>
+               <item>1. Reaſonable.</item>
+               <item>2. Eaſy.</item>
+               <item>3. Safe and Sure.</item>
+            </list>
+            <p n="1">1. Reaſonable becauſe a Duty Incumbent upon every Leet, or Decennarie, being no more but to revive and en<g ref="char:EOLhyphen"/>force an <hi>Ancient Law,</hi> Imprudently laid aſide.</p>
+            <p n="2">2. Eaſy, becauſe ſo many hands to the work; and only a little Care and Pains; no Coſt.</p>
+            <p n="3">3. Sure, becauſe little venturing of a Stock, and if there were, it's every day lookt after by the owners. Thus the Eye of all <hi>England</hi> is every day obſerving the behaviour of their Poor: Nor can their be much Loy<g ref="char:EOLhyphen"/>tering, becauſe tho the viewers are not every hour of the day with the Poor, yet it's not known at what hour they may come. Thus every <hi>Hamlet,</hi> or the like Diviſion, may Revive the Old <hi>Engliſh</hi> Service of the Leet, or Decennarie.</p>
+            <p>Upon what has been ſaid, and yet follows, It's hum<g ref="char:EOLhyphen"/>bly ſubmitted as well as offered, if theſe, or any of theſe, may be conſiderations thought on in the Act, which the Government has been much thought full about, for bet<g ref="char:EOLhyphen"/>ter ordering the Poor.</p>
+            <p n="1">1. If Good Penalties be laid upon the Adminiſtrators of ſuch an Act, who fail in the Execution.</p>
+            <pb n="12" facs="tcp:31437:10"/>
+            <p n="2">2. If ſmall Woolen Cloaths go not oat of the Nation undy'd; Which would much imploy the Poor and Ad<g ref="char:EOLhyphen"/>vance the Crown Revenues: and if any Subject have ſome preſent Intereſt in thoſe <hi>Whites,</hi> the Dyers may Compound it.</p>
+            <p n="3">3. If Attorneys and Solicitours (who converſe moſt with People of all ſorts) be convict as common Swear<g ref="char:EOLhyphen"/>ers, or Drunkards, they be turn'd out of the Roll, and Debar'd practice.</p>
+            <p n="4">4. If Juſtices of Peace Clerks, take nothing of Fees, where the Poor are concern'd?</p>
+            <p>If in the Commiſſion of Peace, to Gentlemen, there be added ſome of the richeſt and moſt under<g ref="char:EOLhyphen"/>ſtanding Tradeſmen, who may Encourage Work and Induſtry?</p>
+            <p n="5">5. And will it not be good Husbandry to diſcover needy Families in time, who are ready to ſtarve under the ſhame of Begging? want work, and would do it: Thus preventing Sickneſs and Diſtempers, and ſaving thereby many Thouſands of Pounds Yearly in this Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Fourth and Laſt conſideration, is the methods to he taken in order to the Reformation of the Poor. But theſe are already under far greater and better Judg<g ref="char:EOLhyphen"/>ment; However, this Mite goes, with other Mens Greater Talents, into the Publick Treaſury.</p>
+            <p n="1">1. If there be ſuch a <hi>General</hi> and daily <hi>View</hi> of the Poor, and of thoſe ſuſpected to be ſo?</p>
+            <p n="2">2. If Juſtices of Peace have power to order a whip<g ref="char:EOLhyphen"/>ping at the Croſs, <hi>&amp;c.</hi> Or remit for the firſt and ſecond offence, after ſtriped? Will not this, ſave the Pariſh Money in ſending to the Houſe of Correction? And more like to have a good Iſſue then any Correction there</p>
+            <pb n="13" facs="tcp:31437:10"/>
+            <p n="3">3. And may not publick ſhame before Neigh<g ref="char:EOLhyphen"/>bours be more Awful, then preſent whipping in a Houſe of Correction? And thoſe too, favourable enough, if there be Intereſt, which is not hard to make in a Houſe of Tipling.</p>
+            <p n="4">4. If a Bell be hung near the Croſs, to give notice of the Execution, which will be ſoon known by the Name of the <hi>IDLE BELL?</hi> So the very ſight of it, bring diligence more into the thoughts of our Poor.</p>
+            <p n="5">5. If the Inhabitants that thus go their weeks be cal<g ref="char:EOLhyphen"/>led, <hi>Viewers and Taxers of the Poor;</hi> And appoint the Tax for Children or a Family where there is need?</p>
+            <p n="6">6. If the Poor be conſtrained on Sundays to Publick Worſhip under the like Penalty?</p>
+            <p n="7">7. Alſo reſtrained from Curſing and Swearing, Tip<g ref="char:EOLhyphen"/>pling and Drinking contrary to Law: For they fear no Pecuinary Puniſhment?</p>
+            <p>Theſe or ſome other Methods which others may hand unto the Government, Joyning with what's already re<g ref="char:EOLhyphen"/>ſolved upon for a Law, it's humbly hoped may aid and aſſiſt the laſt Acts about the Poor: For how can the Pariſh fairly turn out of the Poor Liſt, unleſs they ac<g ref="char:EOLhyphen"/>quaint themſelves by their own Inſpection, which ought to be, for the Officers have not now that truſt of ad<g ref="char:EOLhyphen"/>mitting whom they pleaſe?</p>
+            <p>And how can the late Act for forcing Apprentices be eaſy to the Freeholders, <hi>&amp;c.</hi> Unleſs the Poors manners be reformed? And if this remedy ſhould not prove ſo ſpeedy as this Age could wiſh, yet it will make for the advantage of Poſterity we deſign our Eſtates for.</p>
+            <p>Beſides, the Preventive part of our Law is more de<g ref="char:EOLhyphen"/>ſirable to the Law-makers then the Executionary part of
+<pb n="14" facs="tcp:31437:11"/>it. To add this further, may it not be convenient to give Liberty of ſurcharging to the Poors Tax, where Men are Tradeſmen, and will not Imploy their own Towns Poor in what they can do, the Church Wardens and Overſeers ſeeing the work to be truely and well done. Alſo may it not be agreeable that there be in all publick places of Worſhip, Stoles, or Forms in the <hi>Iſles,</hi> and other ſpare places, that no reſpect be wanting that is due to <hi>Chriſtian Poor.</hi>
+            </p>
+            <p>The Pulpit has call'd long this way much in vain; The Reverend Biſhops therefore being part of our con<g ref="char:EOLhyphen"/>ſtitution, have been conſidering how to effect this great cure, I wiſh every one that can contribute any thing this way, would be Free and Generous in the mutter. And I think if the Gentleman with his waighty reaſon for Disbanding the Guards or this Kingdom, had Imploy'd it this way, to keep us from the danger of being eaten up, (foraſmuch as he can ſee ſo little of danger) the Nation had been much more indebted to him.</p>
+            <p>To conclude, we owe unceſſant thankfulneſs unto Al<g ref="char:EOLhyphen"/>mighty God, that has thus manifeſtly owned and aſſisted the Government; So far, that indeed wonders have been done, and may be done; for every undertaking hath been Proſperous: Firſt, reſtoring Religion, then Recti<g ref="char:EOLhyphen"/>fying our <hi>Coin.</hi> Why ſhould we doubt the reforming of manners, now Heaven's thus liberal? <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow can we miſs it? Unleſs (in Asking) by a too ſoon giving over, as King <hi>Joaſh</hi> did his ſmiting of the Ground.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31437:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
